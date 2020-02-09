@@ -1,5 +1,5 @@
-User-Agent: *
-Disallow: 
-Allow: /
-
-Sitemap: https://www.featurepoints.co.uk/sitemaps.xml
+Allow
+Crawl-delay: 
+Sitemap: https://www.featurepoints.co.uk/sitemap.xml
+User-agent: *
+Allow :/
